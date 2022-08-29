@@ -14,3 +14,8 @@ Schwerpunkte:
 - Aufbau eines Datenanalyse Szenarios
 - Umsetzung des Szenarios
 
+### Überblick: Die Arbeitsumgebung
+
+Im folgenden Abbild sehen Sie die Umgebung in der wir uns im Workshop bewegen.
+
+    ![Die Umgebung](_images/azure-analytics-end-to-end.png)
