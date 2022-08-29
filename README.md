@@ -19,3 +19,15 @@ Schwerpunkte:
 Im folgenden Abbild sehen Sie die Umgebung in der wir uns im Workshop bewegen.
 
    ![](_images/azure-analytics-end-to-end.png)
+   
+   
+   ## Planung der Umgebung
+
+
+1. Azure Subscription (cloud)
+    + Azure Active Directory
+2. M365 Subscription (PowerBi) (cloud)
+
+3. Computer private (Windows/Linux) Messdatenerfassung
+
+
