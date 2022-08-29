@@ -18,4 +18,4 @@ Schwerpunkte:
 
 Im folgenden Abbild sehen Sie die Umgebung in der wir uns im Workshop bewegen.
 
-    ![](https://github.com/mthitservice/bmwsde/blob/main/_images/azure-analytics-end-to-end.png)
+    [](https://github.com/mthitservice/bmwsde/blob/main/_images/azure-analytics-end-to-end.png)
