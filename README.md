@@ -18,4 +18,4 @@ Schwerpunkte:
 
 Im folgenden Abbild sehen Sie die Umgebung in der wir uns im Workshop bewegen.
 
-   [](_images/azure-analytics-end-to-end.png)
+   ![](_images/azure-analytics-end-to-end.png)
