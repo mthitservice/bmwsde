@@ -17,13 +17,13 @@ In diesem Workshop werden die Datenerfassung, Verarbeitung und Auswertung im ges
 ## Erfassungsbereiche
 
 Folgende Darstellung zeigt das grobe Projektumfeld
-![](_images/bmtimekeeper.png)
+![Projektumfeld](_images/bmtimekeeper.png)
 
 ## Überblick: Die Arbeitsumgebung
 
 Im folgenden Abbild sehen Sie die Umgebung in der wir uns im Workshop bewegen.
 
-![](_images/azure-analytics-end-to-end.png)
+![Gesamtumfeld](_images/azure-analytics-end-to-end.png)
 
 ## Prozesse der Umgebung
 
@@ -49,6 +49,6 @@ Im folgenden Abbild sehen Sie die Umgebung in der wir uns im Workshop bewegen.
 ### technische Umsetzung
 
 1. Azure Subscription (cloud)
-   + Azure Active Directory
+   - Azure Active Directory
 2. M365 Subscription (PowerBi) (cloud)
 3. Computer private (Windows/Linux) Messdatenerfassung
