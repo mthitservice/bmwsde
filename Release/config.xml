@@ -3,4 +3,5 @@
   <eventHubName></eventHubName>
   <ServiceBus></ServiceBus>
   <MeasureLocation>Dresden</MeasureLocation>
+  <Interval>200</Interval>
 </MTHConfig>
