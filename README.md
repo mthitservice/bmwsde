@@ -17,7 +17,7 @@ In diesem Workshop werden die Datenerfassung, Verarbeitung und Auswertung im ges
 ## Erfassungsbereiche
 
 Folgende Darstellung zeigt das grobe Projektumfeld
-![](_images/bmtimekeeper.png.png)
+![](_images/bmtimekeeper.png)
 
 ## Überblick: Die Arbeitsumgebung
 
