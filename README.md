@@ -46,9 +46,9 @@ Im folgenden Abbild sehen Sie die Umgebung in der wir uns im Workshop bewegen.
 
 1.1. Geamtprozessadministrator
 in unserm Fall die Gruppe:
-'''
+```
 bmg_admin_de
-'''
+```
 1.2. Datenadministrator
 in unserm Fall die Gruppe:
 1.3. Analyseadministrator
