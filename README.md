@@ -40,7 +40,10 @@ Im folgenden Abbild sehen Sie die Umgebung in der wir uns im Workshop bewegen.
 
 1. Feststellen der beteiligten Rollen
 > Die ermittelten Rollen werden in Sicherheitsgruppen überführt
+ 
 > Die AAD (zentraler Identitätsprovider) hat den Vorteil das Datenquelle, Verarbeitung und Datensicht zentral abgesichert werden können
+
+
 1.1. Geamtprozessadministrator
 1.2. Datenadministrator
 1.3. Analyseadministrator
