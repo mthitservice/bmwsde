@@ -43,22 +43,31 @@ Im folgenden Abbild sehen Sie die Umgebung in der wir uns im Workshop bewegen.
  
 > Die AAD (zentraler Identitätsprovider) hat den Vorteil das Datenquelle, Verarbeitung und Datensicht zentral abgesichert werden können
 
-
 1.1. Geamtprozessadministrator
+
 in unserm Fall die Gruppe:
 ```
 bmg_admin_de
 ```
 1.2. Datenadministrator
+
 in unserm Fall die Gruppe:
+
 1.3. Analyseadministrator
+
 in unserm Fall die Gruppe:
+
 1.4. Berichtsleser (Mitarbeiter)
+
 in unserm Fall die Gruppe:
+
 3. Feststellen der benötigten Ausgaben
-4. Feststellen der benötigten Eingaben
-5. Feststellen der benötigten Verarbeitungsschritte
-6. Feststellen der benötigten Technologien
+
+5. Feststellen der benötigten Eingaben
+
+7. Feststellen der benötigten Verarbeitungsschritte
+
+9. Feststellen der benötigten Technologien
 
 ## Umsetzung
 
