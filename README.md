@@ -39,10 +39,16 @@ Im folgenden Abbild sehen Sie die Umgebung in der wir uns im Workshop bewegen.
 ## Prozessplanung
 
 1. Feststellen der beteiligten Rollen
-2. Feststellen der benötigten Ausgaben
-3. Feststellen der benötigten Eingaben
-4. Feststellen der benötigten Verarbeitungsschritte
-5. Feststellen der benötigten Technologien
+> Die ermittelten Rollen werden in Sicherheitsgruppen überführt
+> Die AAD (zentraler Identitätsprovider) hat den Vorteil das Datenquelle, Verarbeitung und Datensicht zentral abgesichert werden können
+1.1. Geamtprozessadministrator
+1.2. Datenadministrator
+1.3. Analyseadministrator
+1.4. Berichtsleser (Mitarbeiter)
+3. Feststellen der benötigten Ausgaben
+4. Feststellen der benötigten Eingaben
+5. Feststellen der benötigten Verarbeitungsschritte
+6. Feststellen der benötigten Technologien
 
 ## Umsetzung
 
@@ -52,3 +58,7 @@ Im folgenden Abbild sehen Sie die Umgebung in der wir uns im Workshop bewegen.
    - Azure Active Directory
 2. M365 Subscription (PowerBi) (cloud)
 3. Computer private (Windows/Linux) Messdatenerfassung
+
+### Nutzerrollen
+
+1. Pro
