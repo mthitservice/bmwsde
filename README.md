@@ -98,6 +98,6 @@ az group create --name SOHamburgRG --location westeurope
 az group create --name SOMuenchenRG --location westeurope
 az group create --name BMPortalRG --location westeurope
 ```
-
+1.3. StorageA
 
 
