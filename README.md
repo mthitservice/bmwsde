@@ -96,7 +96,7 @@ In der Ressourcengruppe werden Metadaten zu den Ressourcen gespeichert. Wenn Sie
 az group create --name SODresdenRG --location westeurope
 az group create --name SOHamburgRG --location westeurope
 az group create --name SOMuenchenRG --location westeurope
-az group create --name SOMuenchenRG --location westeurope
+az group create --name BMPortalRG --location westeurope
 ```
 
 
